@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199558900449",
+    "project_id": "onetwotreeapp",
+    "storage_bucket": "onetwotreeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199558900449:android:752afde6027ce5832da5a0",
+        "android_client_info": {
+          "package_name": "com.onetwotreeapp.stopgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199558900449-d8a6vm8kc0mat24kt92ekjpsta5o4l95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB795FPIaWm5bh_DdKOkbrGeCwX_krndmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199558900449-d8a6vm8kc0mat24kt92ekjpsta5o4l95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
